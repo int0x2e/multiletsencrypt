@@ -1,5 +1,5 @@
 {
-  "name": "Let's Encrypt",
+  "name": "Let's Encrypt 4",
   "version": "2.2",
   "slug": "letsencrypt_4",
   "description": "Manage certificate from Let's Encrypt (4)",
