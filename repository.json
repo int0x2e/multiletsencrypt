@@ -1,0 +1,5 @@
+{
+  "name": "Hacky fork of the LetsEncrypt hassio addon to support multiple (10) different domains concurrently using different certificates for security fanatics",
+  "url": "https://github.com/int0x2e/multiletsencrypt",
+  "maintainer": "int0x2e <hassenc@modprobe.net>"
+}
